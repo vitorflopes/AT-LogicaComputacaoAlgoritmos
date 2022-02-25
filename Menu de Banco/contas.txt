@@ -1,0 +1,10 @@
+1;Vitor Lopes;1100.0
+3;Gabriel Dias;-3345.42
+4;Diego Flausino;-23124.32
+5;Lucas Gondra;723.09
+6;Gabriel Nogueira;0.0
+7;Vinicius Ferreira;999.0
+8;Eduardo Silva;998.0
+9;Elizabeth Carvalho;10000.0
+10;Vitor Lopes;200.0
+11;Carlos Eduardo;50.0
